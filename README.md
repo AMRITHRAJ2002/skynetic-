@@ -1,4 +1,4 @@
-# 🚀 [Project Title]
+# 🚀 [SKYNETIC]
 
 <div align="center">
 <div style="background-color: #000; padding: 20px; border-radius: 12px; display: inline-block;">
